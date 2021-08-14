@@ -2,7 +2,7 @@
 # site.title, site.url, site.author.name
 
 title:   'Flix Capacitor'
-url:     'https://flixcapacitor.github.io/test'
+url:     'https://flixcapacitor.com'
 author:
   name:  'Joshua Wille, PhD'
 
@@ -10,7 +10,7 @@ author:
 #  use site.path in your templates to make it work for both protocols e.g. http and https
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
 path: /test  
-url:  'https://flixcapacitor.github.io'
+url:  'https://flixcapacitor.com'
 
 
 ########
